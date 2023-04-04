@@ -1,8 +1,11 @@
-h1{
-    text-align: center;
-    color: black;
+.text{
+    color: whitesmoke;
+    margin: 20px;
 }
 
-.logo{
-    border-radius: 30px;
+.headers{
+    color: whitesmoke;
+    font-size: 40;
+    margin: 50;
+
 }
