@@ -1,11 +1,19 @@
-.text{
-    color: whitesmoke;
-    margin: 20px;
+.title{
+    color: sienna;
+    font-size: 60;
+    font: Snell Roundhand, cursive;
+
 }
 
-.bigt{
-    color: whitesmoke;
-    font-size: 40;
-    margin: 50;
+.header{
+    color: bisque;
+    font: DejaVu Sans Mono, monospace;
+
+}
+
+.body{
+    color: chocolate;
+    font: Arial Narrow, sans-serif;
+
 
 }
