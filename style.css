@@ -3,20 +3,16 @@
     font-size: 60;
     font: Snell Roundhand, cursive;
     text-align: center;
-
 }
 
 .header{
     color: bisque;
     font: DejaVu Sans Mono, monospace;
-
 }
 
 .body{
     color: chocolate;
     font: Arial Narrow, sans-serif;
-
-
 }
 
 .center{
@@ -24,4 +20,10 @@
     margin-left: auto;
     margin-right: auto;
     width: 25%;
-  }
+}
+
+  .myDiv {
+    border: 5px outset bisque;
+    background-color: chocolate;
+    text-align: center;
+ }
